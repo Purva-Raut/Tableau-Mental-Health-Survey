@@ -12,3 +12,20 @@ To answer questions such as:
 4.	How effective are the mental health benefits provided by the companies?
 5.	Does the size of the company correlate with the negative consequences of discussing mental health with the employer?
 6.	Who is more willing to discuss their mental condition with their supervisors?
+
+Steps:
+1. Data acquisition
+Used a mental health survey 2014 dataset from Kaggle
+https://www.kaggle.com/datasets/osmi/mental-health-in-tech-survey?resource=download
+
+2. Data Cleaning
+Refer to Data Cleaning file.
+
+3. EDA
+
+4. Data visualisation on Tableu
+Sheets, Dashboards, Story
+
+Link to Tableau:
+https://public.tableau.com/views/MentalHealthSurveyAnalysisUSTechCompanies2014/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+
